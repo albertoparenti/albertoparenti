@@ -4,7 +4,7 @@
 ##  About Me:
 
 - 📝 Currently on my first year of a **Master in Data Science and Advanced Analytics** at NOVA IMS, Portugal
-- 👨‍💻 The repositories available were developed during my Master Degree. Here you can find proposals of solutions to Data Science problems. 
+- 👨‍💻 The repositories available were developed during my Master Degree.
 - 📝 I'm developing my thesis by extracting geo-tagged Twitter data to analyze the propagation of social events and how connected is the European continent.
 
 <h3 align="left">Connect with me:</h3>
